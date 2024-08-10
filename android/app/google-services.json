@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "756455656552",
+    "project_id": "sahi-choice",
+    "storage_bucket": "sahi-choice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756455656552:android:d9c554c7036232432a3fdd",
+        "android_client_info": {
+          "package_name": "com.DesiEnterprise.sahichoice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756455656552-umg68i881u2trm8ug65o7c05mt26alro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DesiEnterprise.sahichoice",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "756455656552-2ahsk9tjcna84rqccrpaj6qcj010qgj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU8FiVUhlw3lyZT3If8ZugsVCQdYt9Hk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756455656552-2ahsk9tjcna84rqccrpaj6qcj010qgj8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "756455656552-2o9s18m87ck2a1bhi6i8s59mjug2j0m8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DesiEnterprise.sahichoice"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
